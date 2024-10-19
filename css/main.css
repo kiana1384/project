@@ -1,0 +1,225 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: wrr;
+  direction: rtl;
+}
+@font-face {
+  font-family: wrr;
+  src: url(../font/Qs_Iranyekan.ttf);
+}
+.navbar {
+  background-color: rgb(173, 236, 228);
+  height: 120px;
+}
+.navbar a.navbar-brand img.im {
+  width: 110px;
+  margin-right: 80px;
+  height: 34px;
+}
+section.first a.hv:hover {
+  color: rgb(157, 212, 205);
+}
+section.aa {
+  background-image: linear-gradient(to top, #eaefee, #adece4);
+}
+
+section.aa p.fon {
+  font-size: 70px;
+  font-weight: 1000;
+}
+section.aa a {
+  width: fit-content;
+  font-weight: bold;
+}
+section.b {
+  background-color: #003d5b;
+  height: 548px;
+}
+section.b div.hei {
+  height: 128px;
+}
+section.b p {
+  font-size: 30px;
+  font-weight: bolder;
+}
+section.b span {
+  font-size: 20px;
+  font-weight: bolder;
+}
+section.b img.imgg {
+  width: 56px;
+
+  height: 56px;
+}
+section.c {
+  background-color: #f8f8f8;
+  height: 520px;
+}
+section.c img.nex {
+  width: fit-content;
+  height: 20px;
+  border-radius: 50%;
+}
+section.c img.nex:hover {
+  background-image: url(../media/avatar44.jpg);
+}
+section.c img.ip:hover {
+  border: 1px solid aqua;
+  outline-offset: 50px;
+}
+section.c img.aks {
+  width: 140px;
+  height: 140px;
+}
+section.c div.cc:hover {
+  border: 2px solid #62e2d6;
+  transition-duration: 500ms;
+}
+section.c img.aks:hover {
+  transform: scale(1.05);
+  transition: all 300ms linear;
+}
+section.c p.up {
+  font-size: 35px;
+  font-weight: bolder;
+}
+section.d {
+  background-color: #003d5b;
+  height: 750px;
+}
+section.d img.dd {
+  width: 80px;
+  height: 80px;
+}
+section.d img.dd:hover {
+  transform: scale(1.1);
+  transition: all 300ms linear;
+}
+section.d div.dd {
+  height: 228px;
+}
+section.d p.dd {
+  font-size: 30px;
+  font-weight: bolder;
+}
+section.e1 {
+  background-color: #f8f8f8;
+}
+section.e1 img {
+  width: 460px;
+  height: 310px;
+}
+section.e1 p.bal {
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+section.e1 div.blue {
+  width: 3px;
+  height: 1400px;
+}
+section.e1 p.ee {
+  font-weight: bolder;
+  font-size: 18px;
+}
+section.f img {
+  width: 384px;
+  height: 256px;
+}
+section.f {
+  background-color: #003d5b;
+  height: 480px;
+}
+section.f p.mosha {
+  font-size: 35px;
+  font-weight: bolder;
+}
+section.f img.ff:hover {
+  transform: scale(1.1);
+  transition: all 300ms linear;
+}
+section.g {
+  background-color: #003d5b;
+  height: 425px;
+}
+section.f img.ff {
+  border: 15px white solid;
+}
+section.g p.mosh {
+  font-size: 35px;
+  font-weight: bolder;
+}
+section.g img {
+  width: 384px;
+  height: 256px;
+}
+section.h {
+  background-color: #003d5b;
+  height: 480px;
+}
+section.h img {
+  width: 384px;
+  height: 256px;
+}
+section.h img.ff {
+  border: 15px white solid;
+}
+section.h p.mosha {
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+section.h img.ff {
+  border: 15px white solid;
+}
+section.i {
+  background-color: #f8f8f8;
+  height: 560px;
+}
+section.i p {
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+section.i img {
+  width: 254px;
+  height: 254px;
+}
+section.j {
+  background-color: #003d5b;
+  height: 480px;
+  padding-top: 50px;
+}
+
+section.j img {
+  width: 294px;
+  height: 196px;
+}
+section.j a {
+  background-color: #e9faf8;
+}
+section.j img.ima {
+  width: 30px;
+  height: 30px;
+}
+section.j p {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+section.k1 {
+  height: 80px;
+}
+section.k1 div.bar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+section.k1 img {
+  width: 40px;
+  height: 40px;
+}
